@@ -1,0 +1,6 @@
+{
+  "name": "DIU Admission Assistant",
+  "description": "AI-powered university admission assistant for Daffodil International University (DIU), Bangladesh, supporting Bengali and English RAG chat, eligibility checking, fee calculation, scholarships, and admin knowledge management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
